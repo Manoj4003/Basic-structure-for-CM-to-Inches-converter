@@ -10,4 +10,12 @@ Purpose: Convert a length value from centimeters to inches. This repository prov
 
 Formula: inches = centimeters / 2.54
 
+🔧 Features
 
+Simple and readable code examples in multiple languages (Python, JavaScript, Java)
+
+Clear CLI and library usage examples
+
+Unit tests examples (framework hints included)
+
+Contribution and extension guidelines
